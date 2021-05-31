@@ -3,17 +3,17 @@
 ## Installation
 Using npm:
 ```shell
-$ npm i datesince
+$ npm i @rasi2661/datesince
 ```
 
 Using yarn:
 ```shell
-$ yarn add datesince
+$ yarn add @rasi2661/datesince
 ```
 
 ## Examples
 ```js
-const dateSince = require("datesince");
+const dateSince = require("@rasi2661/datesince");
 
 let longAgo = new Date("11/21/1987 16:00:00");
 console.log(dateSince(longAgo));
