@@ -1,6 +1,10 @@
 {
   "name": "datesince",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rasi2661/datesince"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
