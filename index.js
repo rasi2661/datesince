@@ -28,7 +28,7 @@ function msSince(longago, today) {
   return diffMS;
 }
 
-function dateSince(longago) {
+module.exports = function (longago) {
   let today = new Date();
   return {
     years: yearsSince(longago, today),
