@@ -1,5 +1,5 @@
 # DateSince
-
+Simple package to get how many years, days, hours, seconds or milliseconds have passed since any given date.
 ## Installation
 Using npm:
 ```shell
